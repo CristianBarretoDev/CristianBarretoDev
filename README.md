@@ -1,4 +1,17 @@
-# Hello there, I'm Cristian Barreto 👋 :nerd_face:
+#### Hello there, I'm Cristian Barreto 👋 :nerd_face:
+
+## Front-End Developer 
+
+* :computer: I'm a Junior Developer learning JavaScript and React!
+* :construction_worker: I'm currently working as a Merchant at Unilever for Massive Supply Chain 
+* :tv: I'm always trying learn new ways so i can improve my coding skills
+* :space_invader: I love games in every console and I hope someday learn Unity to create games!
+
+####Reach me
+
+
+
+
 
 
 
