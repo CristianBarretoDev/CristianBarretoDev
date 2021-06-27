@@ -7,13 +7,10 @@
 * :tv: I'm always trying learn new ways so i can improve my coding skills
 * :space_invader: I love games in every console and I hope someday learn Unity to create games!
 
-####Reach me
 
-
-
-
-
-
+#### Find me:
+[LinkedIn](https://www.linkedin.com/in/cristian-barreto-dev/)
+[Twitter](https://twitter.com/Cristian_Brrto)
 
 
 
